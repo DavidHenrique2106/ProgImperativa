@@ -16,6 +16,8 @@ public static Scanner input = new Scanner(System.in);
 
         int total = num1 + num2;
         
+        System.out.println("Número 1 -> "+ num1);
+        System.out.println("Número 2 -> "+ num2);
         System.out.println("Total - > "+ total);
 
     }
