@@ -1,0 +1,30 @@
+Ana Souza
+20231001
+7.5
+Carlos Lima
+20231002
+4.3
+Beatriz Costa
+20231003
+8.1
+Diego Martins
+20231004
+5.0
+Fernanda Silva
+20231005
+3.7
+João Pedro
+20231006
+6.0
+Larissa Almeida
+20231007
+9.0
+Marcelo Ramos
+20231008
+2.8
+Patrícia Rocha
+20231009
+5.5
+Renan Teixeira
+20231010
+4.9

@@ -27,7 +27,7 @@ public class Example01 {
     }
 
     public static void main(String[] args) {
-        Pessoa p1 = new Pessoa(), p2 = new Pessoa();
+        Pessoa p1 = new Pessoa(), p2 = new Pessoa(), p3 = new Pessoa();
 
         System.out.println("-------- Digitação pessoa 01 --------");
         lerPessoa(p1);
@@ -35,9 +35,13 @@ public class Example01 {
         System.out.println("-------- Digitação pessoa 02 --------");
         lerPessoa(p2);
 
+        System.out.println("-------- Digitação pessoa 03 --------");
+        lerPessoa(p3);
+
         System.out.println("\n--- Dados inseridos ---");
         imprimirPessoa(p1);
         imprimirPessoa(p2);
+        imprimirPessoa(p3);
     }
 }
 
